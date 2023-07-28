@@ -9,4 +9,4 @@ Pour le moment, je teste scribouilli.
 
 Mais l’idée est de créer des contenus, un jour.
 
-Gwelet 'vo ! 
+_Gwelet 'vo_ ! (on verra !) 
